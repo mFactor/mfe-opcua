@@ -1,8 +1,8 @@
 {
-  "name": "node-opcua",
+  "name": "mfe-opcua",
   "version": "0.0.65",
-  "description": "pure nodejs OPCUA SDK",
-  "homepage": "http://node-opcua.github.io/",
+  "description": "mFactor's fork of node-opcua",
+  "homepage": "http://mfactorengineering.com",
   "main": "index.js",
   "bin": {},
   "directories": {
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/node-opcua/node-opcua.git"
+    "url": "git://github.com/gcperrin/node-opcua.git"
   },
   "keywords": [
     "OPCUA",
@@ -28,10 +28,10 @@
     "opc ua",
     "internet of things"
   ],
-  "author": "Etienne Rossignon",
+  "author": "Greg Perrin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/node-opcua/node-opcua/issues"
+    "url": "https://github.com/gcperrin/node-opcua/issues"
   },
   "devDependencies": {
     "app-module-path": "^2.2.0",
