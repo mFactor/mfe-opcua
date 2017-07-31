@@ -1,6 +1,6 @@
 {
   "name": "mfe-opcua",
-  "version": "0.0.65",
+  "version": "0.0.66",
   "description": "mFactor's fork of node-opcua",
   "homepage": "http://mfactorengineering.com",
   "main": "index.js",
